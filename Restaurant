@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Restaurant Name</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+
+        section {
+            text-align: center;
+            padding: 2rem;
+        }
+
+        .menu-item {
+            margin: 1rem;
+            padding: 1rem;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Your Restaurant Name</h1>
+        <p>Delicious Food, Memorable Experiences</p>
+    </header>
+
+    <section>
+        <h2>Our Menu</h2>
+
+        <div class="menu-item">
+            <h3>Appetizers</h3>
+            <p>Explore our enticing range of appetizers that will tickle your taste buds.</p>
+        </div>
+
+        <div class="menu-item">
+            <h3>Main Courses</h3>
+            <p>From hearty classics to modern delights, our main courses are a culinary journey.</p>
+        </div>
+
+        <div class="menu-item">
+            <h3>Desserts</h3>
+            <p>Indulge in our sweet creations that will satisfy your sweet tooth cravings.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Your Restaurant Name. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
